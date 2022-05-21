@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="check_prime">Check Prime</string>
+</resources>
